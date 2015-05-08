@@ -3,3 +3,5 @@
 /02-task-object/node_modules/
 /03-task-aliasing/node_modules/
 /nbproject/
+/04-copy-multi-task/dest/
+/04-copy-multi-task/node_modules/
