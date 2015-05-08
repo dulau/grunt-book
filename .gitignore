@@ -1,0 +1,5 @@
+/01-deploy-log-task/node_modules/
+/01-deploy-log-task/deploy.log
+/02-task-object/node_modules/
+/03-task-aliasing/node_modules/
+/nbproject/
