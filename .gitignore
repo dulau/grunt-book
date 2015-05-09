@@ -5,3 +5,5 @@
 /nbproject/
 /04-copy-multi-task/dest/
 /04-copy-multi-task/node_modules/
+/HTML5Application/nbproject/private/
+/05-async-webget/node_modules/
