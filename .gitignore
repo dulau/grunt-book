@@ -11,3 +11,13 @@
 /08-task-args/node_modules/
 /06-default-tasks/node_modules/
 /09-multi-task-args/node_modules/
+/public_html/05-async-webget/node_modules/
+/public_html/08-task-args/node_modules/
+/public_html/06-default-tasks/node_modules/
+/public_html/10-runtime-opts/node_modules/
+/public_html/07-default-multi-tasks/node_modules/
+/public_html/12-conditional-lint/node_modules/
+/public_html/11-task-help/node_modules/
+/public_html/09-multi-task-args/node_modules/
+/public_html/13-watch/build/
+/public_html/13-watch/node_modules/
